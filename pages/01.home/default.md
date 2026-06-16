@@ -5,7 +5,7 @@ body_classes: 'title-center title-h1h2'
 
 # Welcome 💜
 
-This is a blog about
+This blog is under construction 🚧 but will be about
 * Journalling & Personal Growth
 * Software Engineering
 * What I am currently working on
