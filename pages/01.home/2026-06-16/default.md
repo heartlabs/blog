@@ -53,7 +53,7 @@ While it is a variation of written rubber-ducking and thus is capable of solving
   </colgroup>
   <tr>
     <td valign="top" width="45%"><strong>Setup</strong><br><br>1. On top of the empty page you write a paragraph detailing your goal in your words.</td>
-    <td width="55%"><img src="image.png" alt="Example Goal" width="320" /></td>
+    <td width="55%"><img src="2026-06-16/image.png" alt="Example Goal" width="320" /></td>
   </tr>
   <tr>
     <td valign="top" width="45%"><strong>Every Day</strong><br><br>1. Start a new section on the page (or new empty page) titled with the current date (e.g. "June 8th").<br><br>2. Look at the empty page below the title, thinking about your goal.</td>
