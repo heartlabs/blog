@@ -3,6 +3,8 @@ title: Welcome
 body_classes: 'title-center title-h1h2'
 ---
 
+# Welcome 💜
+
 This is a blog about
 * Journalling & Personal Growth
 * Software Engineering
