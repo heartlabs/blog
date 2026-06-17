@@ -23,11 +23,11 @@ Since the 1980s journalling is a well researched and established tool for
 * ...
 
 There are already countless frameworks like
-* Freewriting or Expressive Writing
+* [Freewriting](https://www.research.ucsb.edu/sites/default/files/RD/docs/FREEWRITING-by-Peter-Elbow.pdf) or Expressive Writing
   * Goal: Unblock creativity & Mental relief
-* Written Rubber-Ducking
+* [Written Rubber-Ducking](https://dbader.org/blog/rubber-ducking-journal)
   * Goal: Find solution for a current complex problem
-* CBT Thought Model
+* [CBT Thought Record](https://www.psychologytools.com/self-help/thought-records)
   * Goal: Non-Judgemental processing of own thoughts
 * ...
 
