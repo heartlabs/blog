@@ -60,19 +60,19 @@ While it is a variation of written rubber-ducking and thus is capable of solving
   </tr>
   <tr>
     <td valign="top" width="45%"><strong>Every Day</strong><br><br>1. Start a new section on the page (or new empty page) titled with the current date (e.g. "June 8th").<br><br>2. Look at the empty page below the title, thinking about your goal.</td>
-    <td width="55%"><img src="2026-06-16/image-1.png" alt="Empty Page" width="320" /></td>
+    <td width="55%"><img src="2026-06-16/image-1.png" alt="Empty Page" /></td>
   </tr>
   <tr>
     <td valign="top" width="45%">3. Write the first sentence down that comes to your mind related to the goal. Focus on what feels most immediate and relevant to you in the current moment.</td>
-    <td width="55%"><img src="2026-06-16/image-2.png" alt="First Sentence" width="320" /></td>
+    <td width="55%"><img src="2026-06-16/image-2.png" alt="First Sentence"  /></td>
   </tr>
   <tr>
     <td valign="top" width="45%">4. Stay focussed on what you just wrote and "just sit with it" and see how it feels. Then continue writing down emerging follow-up thoughts. This can be prose or a bullet point format.</td>
-    <td width="55%"><img src="2026-06-16/image-3.png" alt="First Paragraph" width="320" /></td>
+    <td width="55%"><img src="2026-06-16/image-3.png" alt="First Paragraph"  /></td>
   </tr>
   <tr>
     <td valign="top" width="45%">5. Repeat 4. until you are satisfied. Make sure to remind yourself on your main goal from time to time and keep your writing somehow relevant. Don't worry about spelling or it even making sense to anyone else but you. Noone else is going to read it!</td>
-    <td width="55%"><img src="2026-06-16/image-4.png" alt="Second Paragraph" width="320" /></td>
+    <td width="55%"><img src="2026-06-16/image-4.png" alt="Second Paragraph"  /></td>
   </tr>
 </table>
 
