@@ -2,6 +2,9 @@
 title: 'June 16th'
 visible: true
 media_order: 'chat-2.png,chat-3.png,image-2.png,image-3.png,image-4.png,image.png,june-11.png,quests-1.png'
+published: true
+date: '16-06-2026 13:53'
+publish_date: '16-06-2026 13:53'
 ---
 
 # Prompt Yourself - Part I: The Journaling Framework
