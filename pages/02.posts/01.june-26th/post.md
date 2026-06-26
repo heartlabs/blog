@@ -4,6 +4,7 @@ published: true
 date: '26-06-2026 12:00'
 visible: true
 headline: 'Vacationing & Renovating @ Home'
+comments: true
 ---
 
 Hey everyone 👋
