@@ -147,14 +147,9 @@ class CaptchaManager
     {
         $grav = Grav::instance();
 
-        // First check for specific message in field definition. `captcha_not_validated`
-        // is the canonical key; `recaptcha_not_validated` is the legacy key kept for
-        // backward compatibility with older form definitions.
+        // First check for specific message in field definition
         if (isset($field['captcha_not_validated'])) {
             return $field['captcha_not_validated'];
-        }
-        if (isset($field['recaptcha_not_validated'])) {
-            return $field['recaptcha_not_validated'];
         }
 
         // Then check for specific error code message

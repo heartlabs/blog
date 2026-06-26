@@ -25,8 +25,11 @@ form:
 
         - name: token
           type: hidden
+
+process:
+    twig: true
 ---
 
 # Password Reset
 
-### Username: [uri param="user" /]
+### Username: {{uri.param('user')}}

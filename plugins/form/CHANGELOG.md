@@ -1,23 +1,3 @@
-# v9.1.8
-## 06/25/2026
-
-1. [](#bugfix)
-    * Security: the form `save` action now rejects a `folder` setting that tries to escape the data directory, preventing form files from being written elsewhere on disk.
-    * Security: the form `save` action now re-checks the filename after template processing, so submitted form values can no longer turn it into a disallowed file type or a path outside the data directory.
-
-# v9.1.7
-## 06/23/2026
-
-1. [](#improved)
-    * The `datetime` form field now renders a real date and time picker that follows the visitor's language and region, instead of falling back to a plain text box.
-
-# v9.1.6
-## 06/18/2026
-
-1. [](#bugfix)
-    * Failing a captcha (or any other validation error) no longer blocks you from correcting the form and resubmitting when refresh prevention is enabled.
-    * Custom captcha failure messages set with the older `recaptcha_not_validated` key work again alongside the current `captcha_not_validated` key.
-
 # v9.1.5
 ## 06/08/2026
 

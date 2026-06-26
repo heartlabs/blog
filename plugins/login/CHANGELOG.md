@@ -1,38 +1,3 @@
-# v3.8.10
-## 06/22/2026
-
-1. [](#improved)
-    * The `form_button_classes` and `form_button_outer_classes` theme variables now apply to the forgot, reset, magic-link and logout buttons too, so a theme can restyle every login button by setting them once instead of overriding each template. Thanks to @3e33 for the report.
-
-# v3.8.9
-## 06/19/2026
-
-1. [](#improved)
-    * Simplified the admin warning shown when email links are not pinned to a trusted host, and linked it to a new documentation page that explains the issue and how to fix it.
-
-# v3.8.8
-## 06/17/2026
-
-1. [](#bugfix)
-    * The new `authenticated()` Twig function no longer uses syntax that only works on PHP 8.1 and newer, so the plugin loads again on Grav 1.7 sites running older PHP instead of failing with a parse error.
-
-# v3.8.7
-## 06/17/2026
-
-1. [](#new)
-    * Added an `authenticated()` Twig function that lets page content check whether the current visitor is logged in, optionally requiring a given permission or group, working inside the Grav 2 content sandbox where the `grav.user` object is blocked.
-    * Added optional `[authenticated]` and `[guest]` shortcodes that run the same login, permission and group checks for sites that use shortcodes instead of Twig in content.
-2. [](#improved)
-    * The password reset page now shows the username through a `[uri param="user" /]` shortcode instead of Twig in content, so it works out of the box on Grav 2 where Twig in content is disabled by default (adds a shortcode-core dependency).
-
-# v3.8.6
-## 06/16/2026
-
-1. [](#new)
-    * Added a "Require Trusted Host" security option that refuses to send password reset emails unless a Site Host (or the core Custom Base URL) is configured, instead of falling back to the request host.
-2. [](#improved)
-    * [security] The admin now shows a warning banner (in both the classic admin and Admin 2.0), and a line is written to the log, whenever password reset, activation, or magic-login email links are being built from the request host because neither the Site Host nor the core Custom Base URL is set, since a spoofed host could otherwise redirect those links to an attacker. Thanks to @n00o00b for the report.
-
 # v3.8.5
 ## 06/08/2026
 
